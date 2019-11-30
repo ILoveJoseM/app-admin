@@ -6,7 +6,7 @@
  * DateTime: 2019-01-01 11:26:49
  */
 
-namespace JoseChan\App\Controllers;
+namespace JoseChan\App\Admin\Controllers;
 
 use JoseChan\App\DataSet\Models\App;
 use JoseChan\Base\Admin\Controllers\Controller;
